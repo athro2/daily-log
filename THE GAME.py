@@ -2,7 +2,7 @@ people1 = "짱구"
 people2 = "철수"
 answer1 = 5
 answer2 = 7
-win = answer1 >= answer2
+win = answer1 > answer2
 
 print("길을 가던 " + people1 + "와 " + people2 + "는 사나이의 자존심을 걸고 숫자놀이를 하기로 하였다")
 print("숫자놀이란 더 큰 숫자를 내는 사람이 이기는 경기였다")
