@@ -1,2 +1,5 @@
+print("Find out how many seconds a year is.")
+print("A year is")
 print(60*60*24*360)
-print("second")
+print("seconds")
+print(".")
